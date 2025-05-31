@@ -1,0 +1,1 @@
+make && qemu-system-i386 -hda build/pup.img
