@@ -1,0 +1,1 @@
+sudo apt install gcc binutils make mtools nasm qemu-system-x86

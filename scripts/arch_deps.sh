@@ -1,0 +1,1 @@
+sudo pacman -S gcc binutils make mtools nasm qemu-system-x86
